@@ -1,10 +1,11 @@
 # Automatic Speech Recognition
 
--> Data set
--> Data Visualization
--> Methodology used
--> Observation
--> Deduction
+## Table of Contents
+- Dataset Overview
+- Data Visualization
+- Methodology used
+- Observation
+- Deduction
 
 ASR model is implemented with the help of machine leaning and natural language processing.<br/>
 • Dataset used for this task is sourced from Google.
