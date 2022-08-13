@@ -12,3 +12,12 @@ The total  dataset consists of 8k samples which is  further splitted  in 80% tra
 speeches.<br/>
 • analysed the result with the help of F1 score.<br/>
 
+### Methodology Used
+
+We have used a CNN( convolutional neural network) model,  CNN utilizes correlations which exist with the input data. Each concurrent layer of the neural network connects some input neurons.<br />
+First of all  our  data is  in .wav form.<br />
+We will transform these  waveforms from the time-domain signals into the frequency-domain signals by computing the short-time Fourier transform (STFT) to convert the waveforms to as spectrograms, which show frequency changes over time.<br />
+Spectrogram is a visual way of representing the signal strength or loudness of a signal over time at various frequencies.
+These can be represented as 2D images<br />
+To feed data in our model we have used these spectrogram images .<br />
+
