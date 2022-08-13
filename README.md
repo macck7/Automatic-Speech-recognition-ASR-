@@ -13,8 +13,9 @@ ASR model is implemented with the help of machine leaning and natural language p
 - Each of 8 commands have 1000 different samples of voices.
 - Each  WAV file contains time-series data with a set number of samples per second.
 - Each Sample represents the amplitude of the audio signal at that specific time.
-- The total  dataset consists of 8k samples which is  further splitted  in 80% training samples and 10%-10% for validating and testing 
-![image](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/waveform.png)
+- The total  dataset consists of 8k samples which is  further splitted  in 80% training samples and 10%-10% for validating and testing
+<img src="[Assets/icon.png](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/waveform.png)" width="200"> 
+
 ![image](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/data%20visualisation.png)
 
 ### Methodology Used
