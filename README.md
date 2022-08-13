@@ -31,3 +31,16 @@ Range of frequency  is In a  32-bit floating-point system, each WAV files in the
 dataset has,  the amplitude values range from between   -1.0     to    +1.0.<br />
 Due to the presence of noise  makes it a difficult classification challenge.<br />
 
+### Deduction
+
+Some of deductions made from the uesd CNN model are :<br />
+
+Precision Score  of the model is:  0.8125<br />
+Recall Score of the model is :  0.8125<br />
+F1 Score of the model is: 0.812<br />
+With few layers of CNN, we can only determine  less features, but for deep learning stage we need extract more features.<br />
+Due to the problem of overfitting, performance of model is degraded.<br />
+Also  because of less amount  of dataset, CNN is not able to perform well.<br />
+
+
+
