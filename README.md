@@ -32,7 +32,7 @@ The following can be deduced from the plots seen  of various command waveforms  
 • Due to the presence of noise  makes it a difficult classification challenge.<br />
 
 Confusion matrix showing how well the model did classifying each of the commands in the test set:
-[!image](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/confusion%20matrix.png)
+![image](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/confusion%20matrix.png)
 
 ### Deduction
 
