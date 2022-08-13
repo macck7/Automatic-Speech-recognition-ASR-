@@ -40,9 +40,9 @@ The following can be deduced from the plots seen  of various command waveforms  
 
 Confusion matrix showing how well the model did classifying each of the commands in the test set:
 
-<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/loss%20plot.png" width="650">
+<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/loss%20plot.png" width="500">
 
-<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/confusion%20matrix.png" width="650"> 
+<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/confusion%20matrix.png" width="500"> 
 
 ### Deduction
 
@@ -55,6 +55,6 @@ Some of deductions made from the uesd CNN model are :<br />
 - Due to the problem of overfitting, performance of model is degraded.<br />
 - Also  because of less amount  of dataset, CNN is not able to perform well.<br />
 -
-<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/distribution.png" width="650"> 
+<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/distribution.png" width="500"> 
 
 
