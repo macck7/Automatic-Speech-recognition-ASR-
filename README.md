@@ -15,6 +15,7 @@ ASR model is implemented with the help of machine leaning and natural language p
 - Each Sample represents the amplitude of the audio signal at that specific time.
 - The total  dataset consists of 8k samples which is  further splitted  in 80% training samples and 10%-10% for validating and testing
 <img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/waveform.png" width="650"> 
+
 <img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/data%20visualisation.png" width="650"> 
 
 
@@ -38,10 +39,10 @@ The following can be deduced from the plots seen  of various command waveforms  
 - Due to the presence of noise  makes it a difficult classification challenge.<br />
 
 Confusion matrix showing how well the model did classifying each of the commands in the test set:
-![image](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/loss%20plot.png)
 
+<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/loss%20plot.png" width="650">
 
-![image](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/confusion%20matrix.png)
+<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/confusion%20matrix.png" width="650"> 
 
 ### Deduction
 
@@ -53,6 +54,7 @@ Some of deductions made from the uesd CNN model are :<br />
 - With few layers of CNN, we can only determine  less features, but for deep learning stage we need extract more features.<br />
 - Due to the problem of overfitting, performance of model is degraded.<br />
 - Also  because of less amount  of dataset, CNN is not able to perform well.<br />
+-
+<img src="https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/distribution.png" width="650"> 
 
-![image](https://github.com/macck7/Automatic-Speech-recognition-ASR-/blob/main/pictures/distribution.png)
 
