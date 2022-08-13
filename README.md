@@ -31,6 +31,8 @@ The following can be deduced from the plots seen  of various command waveforms  
 • dataset has,  the amplitude values range from between   -1.0     to    +1.0.<br />
 • Due to the presence of noise  makes it a difficult classification challenge.<br />
 
+Confusion matrix showing how well the model did classifying each of the commands in the test set:
+
 ### Deduction
 
 Some of deductions made from the uesd CNN model are :<br />
